@@ -1,1 +1,0 @@
-BCLinux base image
