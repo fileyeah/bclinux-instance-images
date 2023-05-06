@@ -1,1 +1,1 @@
-BCLinux image repositoy 
+BCLinux base image
